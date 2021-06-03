@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to Friends, to keep in remembrance, and prize the former mercies, blessings, favours, and deliverances, received from the Lord with a warning also to beware of the enemies workings, by careless security, and fleshy ease, in this day of so large liberty, and freedom given, or suffered to come to pass, upon the account of meeting, worshiping, and serving of God / by ... John Bancks.</title>
+            <author>Banks, John, 1637-1710.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17477</idno><idno type="EEBO-CITATION">12572344</idno>
+  <idno type="VID">200285</idno>
+  <idno type="EEBO-PROQUEST">2248559455</idno>
+  
+            <idno type="STC">Wing B654</idno>
+            <idno type="OCLC">12572344</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 953:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to Friends, to keep in remembrance, and prize the former mercies, blessings, favours, and deliverances, received from the Lord with a warning also to beware of the enemies workings, by careless security, and fleshy ease, in this day of so large liberty, and freedom given, or suffered to come to pass, upon the account of meeting, worshiping, and serving of God / by ... John Bancks.</title>
+                  <author>Banks, John, 1637-1710.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold, by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200285:1"/>
+            <pb facs="tcp:200285:1"/>
+            <p>AN EXHORTATION TO FRIENDS, To keep in Remembrance, and prize the former Mercies, Blessings, Favours, and Deliverances, received from the Lord.</p>
+            <p>
+               <hi>With a Warning</hi> Also to beware of the Enemies Workings, by careless Security, and fleshly Ease, in this Day of so large Liberty, and Freedom given, or suffered to come to pass, upon the account of Meeting, Worship<g ref="char:EOLhyphen"/>ing, and Serving of God.</p>
+            <p>By a Servant of Christ, <hi>Iohn Bancks.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>All Things work together for Good to those that truly love God.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and Sold, by <hi>Andrew Sowle,</hi> at the <hi>Crooked-Billet</hi> in <hi>Holloway-Lane</hi> in <hi>Shoreditch,</hi> and at the <hi>Three Keys</hi> in <hi>Nags-Head-Court</hi> in <hi>Grace-Church-Street,</hi> over-against the <hi>Conduit,</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb facs="tcp:200285:2"/>
+            <pb n="3" facs="tcp:200285:2"/>
+            <head>AN EXHORTATION TO FRIENDS.</head>
+            <opener>
+               <salute>Dear Friends.</salute>
+            </opener>
+            <p>MAny have been the Mercies, Blessings, Priviledges, Fa<g ref="char:EOLhyphen"/>vours and Deliverances; that the Lord your God here<g ref="char:EOLhyphen"/>tofore hath made you, rich Partakers, enjoyers, and living Witnesses of, (as you have stood faithful) ever since the time he called and gathered you; out of the World, by a Hand and Arm of mighty Power stretched forth.</p>
+            <p>And first of all, let me put you in minde, it was his Love, Mer<g ref="char:EOLhyphen"/>cy, and Good-Will towards you, in so calling and gathering of you: And it hath been through his Fatherly Care over you, that you have been preserved until now: For ever prize the same, and put a Value thereupon, in all Humility, before him; even such, as because thereof he is worthy.</p>
+            <p>And now, <hi>Dear Friends,</hi> you know the good End of the Lord in calling and gathering of you: <hi>To be a People to himself,</hi> was not onely, That you should believe in his Name, but that you should also suffer, for <hi>Truth</hi> and <hi>Righteousness:</hi> And a great Work the Lord hath wrought in you, (and also often for you) by and through the greatness of his Power, and holy Spirit of Life, in order to fit, prepare, and furnish you, and give you Strength, that you might run the Race set before you, without Wearisom<g ref="char:EOLhyphen"/>ness or fainting; where you met with many great Conflicts by the <hi>Enemy within,</hi> and deep Exercises, and hard Tryals without,
+<pb n="4" facs="tcp:200285:3"/>so that that saying was fulfilled in you; <hi>Through many Tribulations sou must enter the Kingdom:</hi> And yet, notwithstanding the Dan<g ref="char:EOLhyphen"/>ger, on every hand, that caused Fear and Trembling sometimes: And notwithstanding the Rod of the Wicked was laid heavy, and with sharp Stroaks upon your Backs; yet through all this, the Lord your God, by the same Arm of Power and mighty Strength, with which he gathered, brought you through, and over and be<g ref="char:EOLhyphen"/>yond all these things, he hath wrought your Deliverance, and brought you to your desired Haven.</p>
+            <p>And was not these the Mercies, Blessings, Priviledges, Favours, and Deliverances, that you received from his Hand, never to be forgotten: Many times, when little expected, neither inwardly nor outwardly; and in both respects, when your Travel and Ex<g ref="char:EOLhyphen"/>ercise was great; when a little Peace was given, and Ease from Burthens felt; how sweet and precious was this unto you; and how did this tend to humble you before the Lord, and lay you low before him, to the renewing of your Acquaintance, Fellow<g ref="char:EOLhyphen"/>ship, and Communion, with him; and so one with and unto ano<g ref="char:EOLhyphen"/>ther near and dear.</p>
+            <p>Always keep these things in your Remembrance, <hi>Dear Friends,</hi> that like unto so many good Housholders, you may be found bringing forth, out of the good Treasure of your Heart, things both new and old, and yet all sweet and savory.</p>
+            <p>Oh the unexpressable Love and Kindness of the most high, in this calling and gathering of you, in quickening and giving Life unto you, by his eternal Spirit and Power; and in causing his heavenly pure Light to shine out of the Darkness, to give you to see your way: Out of the same, in which waiting, Life you might witness more and more. And oh, his Love and fatherly Care, in feeding, refreshing, and nourishing of you; and causing his gracious Showers, to fall upon you his Plantation, that the Seed of Life and Righteousness might grow in you, in freshness and tenderness; that Drops might stand upon your Blade, because of the Moisture that is in the new Earth; (where Righteousness dwells) as Drops upon the Blade, that springs from the Seed that is sown: <hi>They that have Ears to hear, let them hear what the Spirit saith unto the Congregation.</hi>
+            </p>
+            <pb n="5" facs="tcp:200285:3"/>
+            <p>Oh, the Love, Mercy, and Good-Will of your God, unto you, who have stood faithful in your <hi>Testimony-bearing,</hi> for him and his pure Truth: In the Day of your Tryal, how hath he born up your Heads, over all his and your Enemies, that you might not sink in the midst of Troubles: And how hath he filled your Cups, and maintained your Cause; and returned an hundred Fold of Joy and Peace into your Bosoms, even when the Body was in Prison, and the Goods spoyled, and Husband separated from Wife, and Wife from Husband, sometimes unto Death: Hath not the Lord, in and through all these things, been as a Husband unto the Widdow; and more to the Wife, than she could either ask or think; and as a Father unto the Fatherless Children; and in the time, when as to outward Appearance, you might have wept and mourned, because of your deep Exercises: Have not you even then been made to rejoyce and give Praises unto God, (who did not only count you worthy to believe in his Name, but to suffer for Truth and Righteousness) and say with pati<g ref="char:EOLhyphen"/>ent <hi>Job</hi> also, <hi>The Lord gives, and takes away, &amp;c.</hi> (or suffers so to come to pass.) <hi>Blessed and praised be his holy Name, and great Power for ever more.</hi>
+            </p>
+            <p>
+               <hi>Oh Friends!</hi> Let these things be had in Remembrance by you, while you have a Being.</p>
+            <p>For how hath the Lord, by his great Power, gon before you as a King and Captain, to lead you on, who have counted nothing near nor dear to part with, that in Faithfulness you might free<g ref="char:EOLhyphen"/>ly and fully follow him, as <hi>Caleb</hi> and <hi>Joshua</hi> did; and that through both the Fire and Water, and notwithstanding the Winds and the Tempests too: And how hath he also followed you with his Mercies, Blessings, and Favours, when great Spoil and Havock hath been made of your Goods, and of what the Earth brought forth and afforded unto you; yea, how hath the Lord caused these things to grow and increase again abundantly, so that you have had good Cause to say, <hi>You have been blessed in the Basket and Store;</hi> and though some have had but little and small, having Meat, Drink, and Cloathing, let such, therewith be content, for so learns the Teachings of the Grace, that is sufficient in all States and Conditions.</p>
+            <pb n="6" facs="tcp:200285:4"/>
+            <p>
+               <hi>Dear Friends,</hi> let these things, come often under your Conside<g ref="char:EOLhyphen"/>ration, when you lye down and rise up, go forth and come in; so shall you feel your Hearts and Spirits, wrought more and more into true Tenderness and broakenness, to consider, and lay to Hart what the Lord hath done in so little a time, since his heavenly Day dawned: (for may not I say to such as can read and understand) <hi>One hath chased a Thousand, and Ten put Ten thousand to Flight: The Work is the Lord's, the Praise and Glory thereof belongs unto him, to whom it is due, both now and for ever more,</hi> Amen.</p>
+            <p>And now, <hi>dear Friends,</hi> hath the Lord, in his Love, Mercy, Kindness, and Good-Will to you, after a long time of your cru<g ref="char:EOLhyphen"/>el Sufferings, great Tribulations, and deep Exercises, suffered, or caused a Day and Time of Ease, Freedom, and Liberty, to come home unto you, according to the Desire of your Hearts; (not to be expected as to outward Appearance) which hath freed you from your suffering Condition, both Body and Goods, in divers Respects, and in many Places: Which, although it doth not reach to free me from my Bonds, yet, the Lord knows, I am truly content with my State and Condition, and no more awea<g ref="char:EOLhyphen"/>ry than I was the first Day I entered the same: And my Heart is glad, and my Soul rejoyceth, upon the account of what is al<g ref="char:EOLhyphen"/>ready extended unto many <hi>Friends.</hi>
+            </p>
+            <p>One Hour of such a Day and Time, once, by many, would have been greatly vallued, when Prisons were full, Houses and Shops broken up (Goods spoyled) and Meetings also greatly disquieted, by wicked <hi>Informers,</hi> and others; surely such a Day as now is, or as I said, one Hour of it, would have been greatly pri<g ref="char:EOLhyphen"/>zed, as a Mercy from the Lord, and no doubt, but much desired by ma<g ref="char:EOLhyphen"/>ny (and also laboured for with much Care and Diligence by others.)</p>
+            <p>And, <hi>dear Friends,</hi> is the Day and Time now come, and yet continued (how long, I shall leave to the Lord) of so large Li<g ref="char:EOLhyphen"/>berty and Freedom, as I need not mention; and is it not prized by all as a great Mercy, Blessing, Favour, and Deliverance, be<g ref="char:EOLhyphen"/>ing many Prison Dores are set open, and Wife injoys her Hus<g ref="char:EOLhyphen"/>band again, and Children their Parents, and our Meetings con<g ref="char:EOLhyphen"/>tinued unto us in a most peaceable manner: <hi>(Praises to God on high for ever.)</hi> I say, is not this prized by all, I hope it is by many;
+<pb n="7" facs="tcp:200285:4"/>and my Desire is, it might be by all; for what a great Pitty were it, that such a rich Mercy, Benefit, and Priviledg should by any be undervalued, or not considered and prized according to the Worth of it, and what is really in it, or what it may produce, if made right use of.</p>
+            <p>But I fear, and have a Godly Jealousy (wherefore an Exercise hath attended me many Days, some Weeks, and Months, until at last I was made to write,) That there is some that is so incon<g ref="char:EOLhyphen"/>siderate and unmindful of the Mercies of the Lord, that they ra<g ref="char:EOLhyphen"/>ther requite him Evil than Good herein.</p>
+            <p>Oh! let all take heed and beware, That because of the present Day and Time, of so large Liberty, Ease, and Peace, that none take more Ease, Pease, and Liberty unto your selves, in Meeting, or out of Meeting, than becomes you professing Truth: No, no more you ought to take, than if it were a Day of great Tryal, and deep Exercise; for still you have an unwearied Eni<g ref="char:EOLhyphen"/>my to war with, that neglects no Opportunity that may make for his Purpose, by many Temptations within, and evil Coun<g ref="char:EOLhyphen"/>sellors without.</p>
+            <p>And though it be not now a Time for him and his, to rage and roar, as though he and they would devour all at once, yet he will be creeping now in his Cuning and Subtilty more misteriously and hidenly to darken within, and to vail within, to hurt and hinder your Growth in the Truth within (by presenting some delightful Object without) and there is no way to have him dis<g ref="char:EOLhyphen"/>covered, nor to receive Power against him, but by waiting and watching with Diligence (and true Fear) in the pure light of the Son of God, of Righteousness and Glory; and therein Pow<g ref="char:EOLhyphen"/>er is received, whereby the Power of Darkness is trod down, and kept under; so that he will be known to rule and reign, whose Right it is, who is God over all Heaven, and the whole Earth, blessed for ever more.</p>
+            <p>It is the Work of the Power and Prince of the Air and of Darkness, and that evil Spirit, where it gets Place and Rules, to do what Hurt it can amongst the tender Plants of God's Plan<g ref="char:EOLhyphen"/>tation, to stop and hinder the Work of God; as that rending Spirit of Separation in and by those that entertained it; hath used all its cunning Craftiness, by creeping in the Dark to hurt and
+<pb n="8" facs="tcp:200285:5"/>spoyl within, and so make Breaches and Separations without, by such wicked Instruments as is fitted by it: For it's plain and evi<g ref="char:EOLhyphen"/>dent, which may greatly tend to confirm all <hi>Friends</hi> against it, and to convince those that are of it, That this Spirit and Power, that they pretend to be the Spirit of Truth and Power of God, is not the Spirit of Truth, nor the Power of God: For though such be Peachers by it, and from it, they never have been instrumental since they were of it (I believe, and am fully perswaded, and have often considered) to convince any of Sin, or gather any out of the World; only their Work has been, and still is, to deceive the simple gathered, and to prevail upon the Wise and Rich, which is grown to love Ease and Pleasure more than God, his Truth and People, and are got into a false Liberty, and Looseness at<g ref="char:EOLhyphen"/>tends them, because they love not to bear the Cross, and live in self-denyal; and because they that are of that Spirit, loves and likes Ease and Liberty so much to the Flesh and carnal Minde. This present juncture of time might have seemed, or served to have wrought their Work in, but that they have already so far manifested themselves what Spirit they are of (to all whose Eyes are open) by flying and hiding themselves in the time of Persecution, and keeping <hi>Friends</hi> out of their <hi>Meeting-Houses,</hi> like other Persecutors: So that now they can do little more Harm, though they creep here and there; for that Snake-Spirit hath shot its Sting both Head and Tail, and spent the greatest of its Strength, so that any Child of God now may tread upon it, with<g ref="char:EOLhyphen"/>out Hurt or Danger.</p>
+            <p>So, <hi>dear Friends,</hi> how can it otherwise be, but all those Things, rightly considered, shall greatly tend to confirm your Faith against it, never any more to touch with it (nor them that are of it) and also open the Eyes of others, taken as in a Snare, and hurt by it, to break the Snare and come forth from them that are of that Spirit, that such may be restored and healed: As many as have escaped, let them prize God's Love therein for ever.</p>
+            <p>I say, they never, I believe, since they received that Spirit I have described, been Instrumental to Convince any of Sin, or gather any out of the World to God; so it's plain such are none of his sending, sitting, nor preparing: No, no Ministers of Christ, but of him that is opposite to Christ, speaking from a dark Power
+<pb n="9" facs="tcp:200285:5"/>and Spirit gathers into the Darkness out from the true Light, where People cannot see the true Way.</p>
+            <p>For the Work of the true Ministers of the everlasting Gospel, was and is, and was and is still made so instrumental, to gather from and out of the Darkness into the true Light and Life, and so into the heavenly Power, the heavenly Man (that was before the Power of Darkness was) Christ Jesus the Power of God, there to sit, live, move, and have a Being; where this earthly, dark, sepa<g ref="char:EOLhyphen"/>rating, envious rending Spirit cannot reach nor come, for it hath its Power from below, out of the Pit of Darkness, where its Ha<g ref="char:EOLhyphen"/>bitation and Dwelling-Place is; <hi>Out of which the Lord God of my Life, keep and preserve you all, my dear Friends, in your Habitations of Light, Life, and Power, there for evermore to live and Dwell.</hi>
+            </p>
+            <p>I say, let all take heed and beware of the Deceitfulness of the Enemies Workings in the Dark, who from the beginning still wrought Man's Misery, by getting an Enterance upon him by his Lyes, contrary to the Knowledg God gives to the Sons and Daugh<g ref="char:EOLhyphen"/>ters of Men by his Light of Grace (of his Will and Mind), who undoubtedly will now perswade to fleshly Ease, careless Security, worldly Mindedness, to seek Self and its Interest (if the Watch be not carefully kept) which for want of, hence it is Darkness enters such, and Deadness comes over them, and a Spirit of Slum<g ref="char:EOLhyphen"/>ber and Dead-sleeping takes place, which is both a Thief and a Robber; and so the Spirit of Truth not being minded, to lead and guide, the Spirit of the World gets in, and so moves, and draws, and leads into the Earth and earthly Things, and instead of labouring to be rich in Faith and good Works towards God, such labour chiefly how to grow Rich in the World, that they may have great Substance to leave to they know not who.</p>
+            <p>And all this loose Darkness and Insensibleness comes to artend a Man or a Woman, though Truth may be professed, for want of waiting and watching with Diligence in the Light of Jesus Christ, the antient and standing Principle of Truth, and because the daily Cross to the Will and Mind that leads out, is not born and lived in.</p>
+            <p>And some, for w<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of a right prizing and valuing the pres<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Mercy, so largely enjoyed, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> high Minde to rule them, which leads too above the Fear of God, and out of a Sence and Feeling
+<pb n="10" facs="tcp:200285:6"/>of the pure Truth in themselves, and so walk not orderly.</p>
+            <p>So, <hi>Dear Friends,</hi> every where, as wise Men and Women, old and young, have an Eye about you, in the Fear of God, and in love to his Truth, as those that is ordered and guided in his Wis<g ref="char:EOLhyphen"/>dom, that all People may see you are no more hightened, because of Peace and Liberty, no more than cast down in a Day of Tryal: But that all may see, beholding your good Conversation, coupled with Fear, that you are as those that are bowed before the Lord, un<g ref="char:EOLhyphen"/>der a deep and true Sence of this his present Mercy, (not for<g ref="char:EOLhyphen"/>getting those heretofore received:) For although the Lord may be pleased to make Man instrumental, or work upon his Heart to answer him in this or any other thing, it is unto him alone, that is the Author and Original of all Good, that you are to look and return the Praise, Honour, and Glory for ever; though we would not with-hold that from Man neither that is his due, which is found in doing well, which is acceptance with God, and worthy of Com<g ref="char:EOLhyphen"/>mendation and Praise by all his People, who do heartily pray and wish, to continue all, or any one of such, that is so found unto the end of their Days.</p>
+            <p>And so, <hi>Friends,</hi> being kept and preserved (as I have said) be<g ref="char:EOLhyphen"/>fore the Lord and all People, you will be kept of the blessed Apo<g ref="char:EOLhyphen"/>stles Perswasion; who says, <hi>I am perswaded that neither Life nor Death, Principalities nor Powers; things present, nor yet that which is to come, shall be able to separate me from the Love of God that is in Christ Jesus.</hi> So let all take heed, although all things here named, that is past, or at least some of them you have been tryed with or in that, that which is present do not heighten above what is meet, for if so, you see what it will separate from; but keep low in the even Way, the middle Path, where no Extream is, where you will be kept humble and meek; and its such the Lord Teach<g ref="char:EOLhyphen"/>eth, prizing and valuing every Mercy and Favour you receive from him: But who can or doth so prize any thing to the worth of it, and to have such an Esteem thereof, as those that have known the want of the same.</p>
+            <p>For its very rare in these to prize Liberty, Freedom and Ease, to the worth thereof, so as to have that Esteem of it which it de<g ref="char:EOLhyphen"/>serves, that never knew what Bonds, Tronble and Suffering were: Yea its as rare in such, as for a Man and Woman to prize Health
+<pb n="11" facs="tcp:200285:6"/>and Strength, that scarce ever knew what Sickness, and to be at<g ref="char:EOLhyphen"/>tended with Weekness has been; or for those to prize the worth of Bread that never knew the want of it.</p>
+            <p>Yea, its even those chiefly, that has born the heavy Burthen of suffering Imprisonment, and spoyling of Goods; and has been so straitly kept to the impairing of their Health, that is ready to cry out and say, <hi>how deeply are we engaged unto the Lord for the in<g ref="char:EOLhyphen"/>joyment of this Mercy of so large Liberty and Freedom.</hi>
+            </p>
+            <p>Oh that you may never forget nor be unmindful of the same, though I know, the honest hearted and well minded, that has their Eye to God, and love him, his Truth and People above all, though never called to suffer, they are ready often to say in their Hearts; <hi>Though I have never, or seldom have been exercised as other of my Friends, yet I cannot but be mindful of their suffering State and Condition; and when they suffer I suffer with them, and when freed, eased, or at Liberty: Oh! I am made truly glad, so as that I am ingaged, with them, to praise the Lord therefore, in the receiving of such a Mercy, Blessing and Favour.</hi>
+            </p>
+            <p>And the blessed Effects produced by all those that prize the Mer<g ref="char:EOLhyphen"/>cies and Favours they receive from the Lord, is wherein God's Love is manifested to them, they prising and valuing the same, it engageth the Lord to give them more abundantly to partake there<g ref="char:EOLhyphen"/>of, and constrains them to love him again, and if possibly, to re<g ref="char:EOLhyphen"/>quite the Lord with doubling of their Diligence, as those that are so far from taking more Liberty unto themselves, because of the Liberty that is given, that they sind themselves the more engaged, to meet often amongst God's People in all their Meetings, not only as to Worship, but Men and Womens Meetings set up and or<g ref="char:EOLhyphen"/>dained by the Power of God, for to do service there for him, his Truth and People; for Ease and Liberty, not made right use of, brings forth littie but Idleness and Unprofitableness, and no way fit to do Service for God.</p>
+            <p>For it's only those that keeps out of the extream Hights and Depths (too high and too low) that has the Profit, and truly reaps the Benefit of this Day of Freedom and Liberty: And that in truth, it is to them a sweet and comfortable Mercy and Favour, amongst many received from the Lord, and such is deeply con<g ref="char:EOLhyphen"/>cern'd to prise it, that they may be sensible of the End where<g ref="char:EOLhyphen"/>fore the Lord hath suffered it so to come to pass, which is as all
+<pb n="12" facs="tcp:200285:7"/>in Faithfulness waits upon him in the close Retiredness of their Mindes, they may receive that from him, whereby they may grow strong in him, through the might of his Power, in Faith and Pa<g ref="char:EOLhyphen"/>tience, in Boldness and Courage to sinisn in that in which you have begun, for its Faithfulness unto the End that crowns all.</p>
+            <p>And so, <hi>dear Friends,</hi> in the Name of the Lord go on, and none fit down by the Way, and in Faithfulness follow your Captain the Lord Jesus Christ, that never leaves nor forsakes those that so follow him, that you may have good Cause to say, as those that hath made right Use of the Day and Time of God's Love and Mer<g ref="char:EOLhyphen"/>cy, in giving Ease and Liberty as well when exercised in and un<g ref="char:EOLhyphen"/>der Suffering <hi>(come what will come, the Will of the Lord be done.)</hi>
+            </p>
+            <p>And all who make not use of this Days Mercy, as I have said, and for that End and Purpose wherefore the Lord hath suffered it to come to pass, (which is to engage and establish his faithful People) the end thereof will rise up in Judgment against them.</p>
+            <p>So, <hi>dear Friends, Brethren and Sisters</hi> every where, all be awake<g ref="char:EOLhyphen"/>ned unto Righteousness to serve the Living God, as you ought to worship and serve him, which is with all your Hearts, Might and Strength, and with all you have and do enjoy that is the Lord's, who are redeemed unto him by his Power: The Lord God of <hi>Israel</hi> keep and preserve you faithful, on this wise serving of the Lord, and one another in Love, for the increase of Life and Unity a<g ref="char:EOLhyphen"/>mongst you; and that while you have a Day to live, and an Hour of Breath to draw, is the Supplication and Travail of my Soul and Spi<g ref="char:EOLhyphen"/>rit unto the Lord for and on your Behalf, into whose blessed and fatherly Protection I commit and command you all, to be kept and preserved where Safety and Preservation is for evermore.</p>
+            <closer>
+               <dateline>From my Prison-House in <hi>Carlile</hi> in <hi>Cumberland,</hi>
+                  <date> the 8th. Day of the 7th. Month 1687.</date>
+               </dateline>
+               <signed>Who is your Friend and Brother in the Truth that is living and precious, though a Sufferer in outward Bonds, for the Testimony of Jesus, and of a good Conscience. John Bancks.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Let this be read in the Fear of the Lord and with Ʋnderstanding, in the Meetings and Families of Friends.</hi>
+               </p>
+            </postscript>
+            <pb facs="tcp:200285:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
